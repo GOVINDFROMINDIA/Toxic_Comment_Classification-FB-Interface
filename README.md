@@ -1,2 +1,2 @@
 # Toxic_Comment_Classification
-Natural Language Processing
+Natural Language Processing to seggregate Hindi & English Toxic
